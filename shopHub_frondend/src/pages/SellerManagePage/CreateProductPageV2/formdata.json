@@ -1,0 +1,89 @@
+{
+	"basicInfo": {
+		"productName": "PlayStattion5",
+		"productImg": {
+			"0": {}
+		},
+		"category": "1",
+		"description": "<h3><strong>男孩的夢想</strong></h3><h3><strong>男人的遺憾</strong></h3>"
+	},
+	"lowestBuy": 1,
+	"specs": [
+		{
+			"spec": "顏色",
+			"properties": [
+				{
+					"id": "0cfb8a37-8997-4967-a991-bec4d8521dd0",
+					"specImg": {
+						"0": {}
+					},
+					"specProp": "紅色"
+				},
+				{
+					"id": "784fbc6e-b24f-402c-bbf6-91dc60291565",
+					"specImg": null,
+					"specProp": "綠色"
+				}
+			],
+			"id": "42c56244-4702-4476-91ac-2c18367732cc"
+		},
+		{
+			"spec": "大小",
+			"properties": [
+				{
+					"id": "3f1606c7-9822-4019-8e4f-a6e77ab0f193",
+					"specImg": null,
+					"specProp": "XL"
+				},
+				{
+					"id": "2c88fcb8-95c2-49ad-84ed-fdf010bc1c01",
+					"specImg": null,
+					"specProp": "Ｌ"
+				}
+			],
+			"id": "f8d942b8-3bf6-49c7-8169-399907ee2683"
+		}
+	],
+	"specCombinations": [
+		{
+			"id": "116fb7c2-8ee5-463d-a4bc-ffcbe9feb84b",
+			"spec1Name": "顏色",
+			"spec1": "紅色",
+			"spec2Name": "大小",
+			"spec2": "XL",
+			"price": "1",
+			"stock": "1"
+		},
+		{
+			"id": "0f084b8c-646b-4da1-b8d1-4dcbaa26348e",
+			"spec1Name": "顏色",
+			"spec1": "紅色",
+			"spec2Name": "大小",
+			"spec2": "Ｌ",
+			"price": "1",
+			"stock": "1"
+		},
+		{
+			"id": "fe9f4870-19bf-45d0-bd0a-f3668bcbe917",
+			"spec1Name": "顏色",
+			"spec1": "綠色",
+			"spec2Name": "大小",
+			"spec2": "XL",
+			"price": "1",
+			"stock": "1"
+		},
+		{
+			"id": "9cefd563-c0a4-4302-bfc3-55e4373c7755",
+			"spec1Name": "顏色",
+			"spec1": "綠色",
+			"spec2Name": "大小",
+			"spec2": "Ｌ",
+			"price": "1",
+			"stock": "1"
+		}
+	],
+	"salesInfo": {
+		"price": 0,
+		"quantity": 0
+	}
+}
