@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .slick-dots {
+  bottom: -50px !important; 
+} */
+
+
+/* .slick-dots {
+  bottom: -50px !important; 
+} */
+
+
+
+.active-scroll-spy {
+  background-color: red;
+  border-radius: 15px;
+    transition: all 0.5s;
+}
